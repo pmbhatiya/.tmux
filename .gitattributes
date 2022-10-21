@@ -2,6 +2,6 @@
 
 # git
 .gitignore text
-
+# git task
 .tmux.conf eol=lf
 .tmux.conf.local eol=lf
